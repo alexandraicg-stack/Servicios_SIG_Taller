@@ -1,0 +1,7 @@
+# Respaldos locales de GeoServer
+/backups/
+
+# Archivos de entorno y credenciales
+.env
+.env.*
+!.env.example
